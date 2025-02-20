@@ -1,5 +1,5 @@
 import java.util.Scanner;
-class Product
+class Product 
 {
   int pcode,price;
   String pname;
