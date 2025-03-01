@@ -3,7 +3,7 @@ import java.util.Scanner;
 class Matrix1{
     public static void main(String args[]) {
         int col1, row1, row2, col2, i, j;
-        Scanner sc = new Scanner(System.in);
+        Scanner sc = new Scanner(System.in); 
 
         System.out.println("Enter the number of rows of first matrix");
         row1 = sc.nextInt();
