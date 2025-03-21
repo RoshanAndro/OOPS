@@ -1,7 +1,7 @@
 import java.util.Scanner;
 import java.util.Arrays;
 
-class StrAray {
+class StrAray { 
     void userDefine(String str[], int n) {
         int i, j;
         String temp;
