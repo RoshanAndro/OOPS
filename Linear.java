@@ -1,4 +1,4 @@
-import java.util.Scanner;
+import java.util.Scanner; 
 
 class Linear {
     void define(int arr[], int n, int item) {
