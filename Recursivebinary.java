@@ -1,6 +1,6 @@
 import java.util.Arrays;
 import java.util.Scanner;
-class Recursivebinary
+class Recursivebinary 
 {
 static int RecursiveSearch(int arr[],int first,int last,int search)
 {
