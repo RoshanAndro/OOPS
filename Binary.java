@@ -1,6 +1,6 @@
 import java.util.Scanner;
 import java.util.Arrays;
-class Binary
+class Binary 
 {
     void bSearch(int arr[],int l,int r,int item)
     {
