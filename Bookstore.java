@@ -29,8 +29,7 @@ class Literature extends Book {
     Literature(String publisherName, String title, String author) {
         super(publisherName, title, author);
     }
-
-    @Override
+    
     void displayDetails() {
         System.out.println("Category : Literature");
         super.displayDetails();
@@ -42,7 +41,7 @@ class Fiction extends Book {
         super(publisherName, title, author);
     }
 
-    @Override
+
     void displayDetails() {
         System.out.println("Category : Fiction");
         super.displayDetails();
