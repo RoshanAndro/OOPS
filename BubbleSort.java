@@ -1,7 +1,7 @@
 import java.util.Arrays;
 import java.util.Scanner;
 
-class BubbleSort {
+class BubbleSort { 
     
     public static <T extends Comparable<T>> void bubbleSort(T[] array) {
         int n = array.length;
