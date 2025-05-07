@@ -9,7 +9,7 @@ public class Housedoor extends Frame implements MouseListener, MouseMotionListen
         addMouseListener(this);
         addMouseMotionListener(this);
         addWindowListener(new MyWindowAdapter());
-        setSize(new Dimension(500, 500));
+        setSize(new Dimension(500, 500)); 
         setTitle("Housedoor");
         setVisible(true);
     }
